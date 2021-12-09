@@ -1,0 +1,2 @@
+requests>=2.26
+scrapli>=2021.7.30

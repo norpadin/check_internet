@@ -1,0 +1,2 @@
+interface vlan 300
+no ip access-group PYTHON in
